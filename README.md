@@ -1,6 +1,7 @@
 # Spy-Bronzebeard
 ## Spy Addon fixed to work in bronzebeard server.
 
+- For the addon to work remember to change the name from "Spy-Bronzebeard-main" to "Spy".
 - Since bronzebeard haven't launched yet i haven't been able to test if the player detection works correctly, but every other addon functionality works.
 - If you detect any error or malfunction of the addon let me know with as much detail as you can and i will try to fix it.
 
