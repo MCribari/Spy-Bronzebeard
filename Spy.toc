@@ -1,7 +1,7 @@
 ## Interface: 30300
-## Title: Spy
+## Title: Spy-Bronzebeard
 ## Notes: Detects and alerts you to the presence of nearby enemy players.
-## Author: Immolation (fixed for Bronzebeard by Exad).
+## Author: Immolation (fixed by Exad for Bronzebeard).
 ## OptionalDeps:  Ace3, LibSharedMedia-3.0, LibBabble-Class-3.0
 ## SavedVariables: SpyDB
 ## SavedVariablesPerCharacter: SpyPerCharDB
